@@ -1,8 +1,8 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Recode By Zrill Dev
+   * Contact Me on wa.me/6281260376805
+   * Follow https://github.com/zrillll
 */
 
 const fs = require('fs')
@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6289695063939']
+global.ownernomer = "6289695063939"
+global.premium = ['6289695063939']
 global.packname = 'Sticker  Naze'
-global.author = 'Naze'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.author = 'zril'
+global.sessionName = 'zrilldev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
